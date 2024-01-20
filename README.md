@@ -1,18 +1,9 @@
 <!-- Header Section -->
 <div align="center">
-  <iframe src="https://giphy.com/embed/Q9aBxHn9fTqKs" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-  <p><a href="https://giphy.com/gifs/Q9aBxHn9fTqKs">via GIPHY</a></p>
-</div>
+
 
 <!-- Social Badges Section -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/samitesla/">
-    <img src="https://img.shields.io/badge/LinkedIn-D40000?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/samitesla">
-    <img src="https://img.shields.io/badge/Twitter-D40000?style=for-the-badge&logo=twitter&logoColor=black" alt="Twitter Badge"/>
-  </a>
-</div>
+
 
 <!-- Profile Views Counter -->
 <div align="center">
@@ -50,12 +41,7 @@
 </div>
 
 <!-- Spotify Section -->
-<div align="center">
-  <h3 align="center">🎵 Listening to :</h3>
-&nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/Samir-Tesla)
-</div>
-</div>
+
 
 <!-- Contact Section -->
 <div align="center">
@@ -66,4 +52,8 @@
   <a href="https://twitter.com/SAMIRSAYS69" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-D40000?style=for-the-badge&logo=twitter&logoColor=black" alt="Twitter Badge"/>
   </a>
+    <a href="mailto:samirshahahmed@duck.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D40000?style=for-the-badge&logo=Gmail&logoColor=black" alt="Gmail Badge"/>
+    </a>
+ 
 </div>
