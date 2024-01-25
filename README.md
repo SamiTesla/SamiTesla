@@ -35,7 +35,7 @@
 
 <!-- GitHub Stats Section -->
 <div align="center">
-  <h3 align="center">📊 GitHub Stats :</h3>
+  <h3 align="center">📊  :</h3>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samitesla&layout=compact&theme=dark" alt="Top Languages"/>
 </div>
