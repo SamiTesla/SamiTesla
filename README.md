@@ -36,7 +36,7 @@
 <!-- GitHub Stats Section -->
 <div align="center">
   <h3 align="center">📊 GitHub Stats :</h3>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=samitesla&theme=dark" alt="GitHub Streak"/>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samitesla&layout=compact&theme=dark" alt="Top Languages"/>
 </div>
 
