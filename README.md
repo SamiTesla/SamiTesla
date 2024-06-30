@@ -19,7 +19,7 @@
 <!-- About Me Section -->
 <div align="center">
   <p>
-    🎓 Senior in high school, applying for colleges<br>
+    🎓Computer Science and Engineering at UC Merced<br>
     💻 Interested in ML, Deep Learning, and AGI research
   </p>
 </div>
